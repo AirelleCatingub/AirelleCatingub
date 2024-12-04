@@ -15,6 +15,7 @@ New Era University
 📜 Certifications
 
 [Cognitive Class Certificate](https://courses.cognitiveclass.ai/certificates/717497f7cc8944e59566c961417625f9)
+[Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BCF2490F802A2061E6EFDC500766A9EA6596D3A405B0AC2641D942FA40110E1C)
 
 🛠️ Skill Sets
 
