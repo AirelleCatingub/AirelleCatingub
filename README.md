@@ -18,6 +18,8 @@ New Era University
 
 [Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BCF2490F802A2061E6EFDC500766A9EA6596D3A405B0AC2641D942FA40110E1C)
 
+[Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BCF2490F802A2061E6EFDC500766A9EA3678299A173F1DFD4FA181CFE7D73D13)
+
 🛠️ Skill Sets
 
 Programming Languages: Python, Java, and C++.
