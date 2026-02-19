@@ -10,8 +10,6 @@ Bachelor of Science in Computer Science
 
 New Era University
 
-2023 - Present
-
 📜 Certifications
 
 [Cognitive Class Certificate](https://courses.cognitiveclass.ai/certificates/717497f7cc8944e59566c961417625f9)
