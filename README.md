@@ -27,4 +27,5 @@ Database Management: Experienced with SQL.
 🚀 Let's Connect!
 I’m always eager to collaborate on exciting projects or explore new opportunities in technology. Feel free to reach out!
 
-Gmail: airellecatz@gmail.com
+Gmail: aairelle.lc@gmail.com
+
