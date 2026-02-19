@@ -1,8 +1,3 @@
-🌟 About Me
-
-I am studying Computer Science at New Era University, working towards my Bachelor of Science degree. I am excited to develop my skills and gain experience in the field while exploring new opportunities in technology.
-
-
 
 🎓 Education
 
